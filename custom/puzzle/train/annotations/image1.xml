@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>image1.jpg</filename>
+	<path>/Users/Muhad/Documents/super-resolutions/ImageAI/custom/puzzle/train/images/image1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>233</width>
+		<height>216</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>2</ymin>
+			<xmax>232</xmax>
+			<ymax>216</ymax>
+		</bndbox>
+	</object>
+</annotation>
